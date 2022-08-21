@@ -3,14 +3,14 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://ProtsyukPrits.github.io/project",
+  "homepage": "https://busgoit.github.io/IceCream/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project/"
+    "build": "parcel build src/*.html --public-url /IceCream/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/busgoit/IceCream.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
